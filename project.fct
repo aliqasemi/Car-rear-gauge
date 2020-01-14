@@ -1,0 +1,5 @@
+main DSTACK_USAGE:0 DSTACK_LEVEL:0 FILE:"project.c" LINE:17
+ftoa DSTACK_USAGE:13 DSTACK_LEVEL:13 FILE:"C:\cvavr\lib\stdlib.lib" LINE:959
+floor DSTACK_USAGE:4 DSTACK_LEVEL:17 FILE:"C:\cvavr\lib\math.lib" LINE:659
+ftrunc DSTACK_USAGE:4 DSTACK_LEVEL:21 FILE:"C:\cvavr\lib\math.lib" LINE:544
+timer0_ovf_isr DSTACK_USAGE:3 DSTACK_LEVEL:24 FILE:"project.c" LINE:12
